@@ -1,5 +1,5 @@
 export default {
-  name: process.env.NAME, // actual name of the recipient (Mandatory)
+  name: Rishal, // actual name of the recipient (Mandatory)
 
   nickname: process.env.NICKNAME, // nickname(optional)
 
